@@ -1,2 +1,2 @@
 # KnightRunners
-A project made for subject for University
+A project made at the end of a C course
